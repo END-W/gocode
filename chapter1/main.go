@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "chapter1/matchers"
-	"chapter1/search"
+	_ "code/chapter1/matchers"
+	"code/chapter1/search"
 	"log"
 	"os"
 )

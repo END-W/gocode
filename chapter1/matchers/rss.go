@@ -1,7 +1,7 @@
 package matchers
 
 import (
-	"chapter1/search"
+	"code/chapter1/search"
 	"encoding/xml"
 	"errors"
 	"fmt"
